@@ -1,7 +1,7 @@
 plugins {
     id 'java-library'
-    id 'org.jetbrains.kotlin.jvm' version '1.8.21'
-    id 'com.diffplug.gradle.spotless' version '3.27.0'
+    id 'org.jetbrains.kotlin.jvm' version '1.9.0'
+    id 'com.diffplug.spotless' version '6.19.0'
 }
 
 group 'com.deflatedpickle'
